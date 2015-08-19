@@ -1,0 +1,24 @@
+{
+  "name": "TripThru_OAuth_Server",
+  "version": "1.0.0",
+  "author": "Daniel Montes de Oca",
+  "private": true,
+  "dependencies": {
+    "body-parser": "~1.8.x",
+    "debug": "~2.0.x",
+    "express": "~4.10.x",
+    "faker": "^2.0.x",
+    "method-override": "^2.3.x",
+    "nconf": "^0.6.x",
+    "oauth2orize": "^1.0.x",
+    "passport": "^0.2.x",
+    "passport-http": "^0.2.x",
+    "passport-http-bearer": "^1.0.x",
+    "passport-oauth2-client-password": "^0.1.x",
+    "winston": "^0.8.x",
+    "bluebird": "*",
+    "knex": "*",
+    "mysql": "*",
+    "moment": "*"
+  }
+}
